@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">wonhoi_todo_list_app04</string>
+
+    <string name="empty_history_text">No tasks have been added.</string>
+    <string name="title">title</string>
+    <string name="description">Please enter what to do.</string>
+    <string name="delete">delete</string>
+    <string name="modify">remove</string>
+    <string name="update">save</string>
+    <string name="delete_all">Delete All</string>
+</resources>
